@@ -1,0 +1,1902 @@
+[
+  {
+    "timestamp": "2026-05-13T00:00:42",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.0,
+    "max_mm": 0.0,
+    "rainy_hours": 0,
+    "clf_label": 0,
+    "clf_confidence": 0.493
+  },
+  {
+    "timestamp": "2026-05-13T00:00:47",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.0,
+    "max_mm": 0.0,
+    "rainy_hours": 0,
+    "clf_label": 0,
+    "clf_confidence": 0.493
+  },
+  {
+    "timestamp": "2026-05-13T00:00:58",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.0,
+    "max_mm": 0.0,
+    "rainy_hours": 0,
+    "clf_label": 0,
+    "clf_confidence": 0.493
+  },
+  {
+    "timestamp": "2026-05-13T00:20:16",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.0,
+    "max_mm": 0.0,
+    "rainy_hours": 0.0,
+    "clf_label": 0,
+    "clf_confidence": 0.493
+  },
+  {
+    "timestamp": "2026-05-13T00:20:27",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.524,
+    "max_mm": 0.024,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.57
+  },
+  {
+    "timestamp": "2026-05-13T00:21:50",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.0,
+    "max_mm": 0.0,
+    "rainy_hours": 0.0,
+    "clf_label": 0,
+    "clf_confidence": 0.32
+  },
+  {
+    "timestamp": "2026-05-13T00:21:54",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.0,
+    "max_mm": 0.0,
+    "rainy_hours": 0.0,
+    "clf_label": 0,
+    "clf_confidence": 0.337
+  },
+  {
+    "timestamp": "2026-05-13T00:21:58",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.0,
+    "max_mm": 0.0,
+    "rainy_hours": 0.0,
+    "clf_label": 0,
+    "clf_confidence": 0.423
+  },
+  {
+    "timestamp": "2026-05-13T00:22:01",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.414,
+    "max_mm": 0.02,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.751
+  },
+  {
+    "timestamp": "2026-05-13T00:24:00",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.414,
+    "max_mm": 0.02,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.751
+  },
+  {
+    "timestamp": "2026-05-13T00:24:25",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.414,
+    "max_mm": 0.02,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.751
+  },
+  {
+    "timestamp": "2026-05-13T00:24:37",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.414,
+    "max_mm": 0.02,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.751
+  },
+  {
+    "timestamp": "2026-05-13T00:24:54",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.414,
+    "max_mm": 0.02,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.751
+  },
+  {
+    "timestamp": "2026-05-13T00:25:15",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.376,
+    "max_mm": 0.019,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T00:25:25",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:25:28",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T00:27:38",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:27:44",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.317,
+    "max_mm": 0.015,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.935
+  },
+  {
+    "timestamp": "2026-05-13T00:28:44",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:28:55",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:28:57",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:29:02",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:29:08",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:29:11",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:29:14",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:29:16",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.505,
+    "max_mm": 0.024,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T00:29:26",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:30:02",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T00:30:18",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T00:30:38",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T00:30:40",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T00:32:25",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.376,
+    "max_mm": 0.019,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T00:32:29",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:32:52",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:32:55",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.505,
+    "max_mm": 0.024,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T00:32:57",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T00:33:00",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T00:33:10",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T00:33:20",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.376,
+    "max_mm": 0.019,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T00:33:24",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.317,
+    "max_mm": 0.015,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.935
+  },
+  {
+    "timestamp": "2026-05-13T00:38:28",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T13:55:02",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.376,
+    "max_mm": 0.019,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T13:55:41",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.285,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T13:56:40",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.505,
+    "max_mm": 0.024,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T13:56:43",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:06:40",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:07:23",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:07:26",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.035,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:18:01",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:18:33",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T14:18:35",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:18:36",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T14:18:37",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T14:18:39",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T14:18:45",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T14:18:51",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T14:18:56",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.317,
+    "max_mm": 0.015,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.935
+  },
+  {
+    "timestamp": "2026-05-13T14:19:57",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.317,
+    "max_mm": 0.015,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.935
+  },
+  {
+    "timestamp": "2026-05-13T14:20:06",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.317,
+    "max_mm": 0.015,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.935
+  },
+  {
+    "timestamp": "2026-05-13T14:20:16",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.317,
+    "max_mm": 0.015,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.935
+  },
+  {
+    "timestamp": "2026-05-13T14:30:54",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T14:30:57",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:31:02",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T14:42:42",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T14:43:03",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T14:43:10",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T14:43:17",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0.0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:47:16",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:47:38",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:48:18",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:49:07",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:49:36",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:49:53",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:50:04",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:50:07",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:50:09",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:50:14",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T14:50:15",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:51:44",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T14:52:22",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:52:30",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:52:32",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T14:53:27",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T14:53:44",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T14:53:54",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T14:54:36",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.317,
+    "max_mm": 0.015,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.935
+  },
+  {
+    "timestamp": "2026-05-13T15:23:30",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T15:23:37",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T15:23:47",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T15:24:19",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T15:31:04",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T15:31:49",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T15:31:53",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:32:10",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T15:32:25",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T15:33:04",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T15:33:50",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T15:33:56",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T15:34:27",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:38:26",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:40:42",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:40:45",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T15:40:46",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:45:43",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:46:09",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:46:41",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:48:53",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T15:49:11",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T19:34:14",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:37:51",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:38:06",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:38:40",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:39:09",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:39:31",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:39:35",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:39:36",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T19:57:08",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T19:57:40",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T19:57:50",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T19:58:28",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T19:58:43",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T19:59:16",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T19:59:20",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:11:59",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:37:54",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T20:37:57",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:37:59",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T20:38:03",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T20:38:06",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T20:39:13",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T20:41:13",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:41:18",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T20:41:21",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:41:25",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T20:41:26",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:45:34",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:45:40",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T20:46:34",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:48:17",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:48:50",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:53:34",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T20:54:07",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T21:04:36",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T21:04:38",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T21:04:45",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T21:04:48",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T21:04:52",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.203,
+    "max_mm": 0.011,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.938
+  },
+  {
+    "timestamp": "2026-05-13T21:04:59",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T21:05:02",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T21:11:07",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.281,
+    "max_mm": 0.014,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T21:32:16",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T21:32:41",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.498,
+    "max_mm": 0.024,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.746
+  },
+  {
+    "timestamp": "2026-05-13T21:34:35",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T21:36:02",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.393,
+    "max_mm": 0.02,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.593
+  },
+  {
+    "timestamp": "2026-05-13T23:45:27",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T23:47:44",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-13T23:57:55",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.032,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.679
+  },
+  {
+    "timestamp": "2026-05-13T23:58:19",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.033,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.956
+  },
+  {
+    "timestamp": "2026-05-14T00:03:42",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T00:03:56",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.478,
+    "max_mm": 0.022,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.644
+  },
+  {
+    "timestamp": "2026-05-14T00:04:04",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.034,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.715
+  },
+  {
+    "timestamp": "2026-05-14T00:04:18",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.038,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-14T00:04:30",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.198,
+    "max_mm": 0.01,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T00:04:39",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.034,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.715
+  },
+  {
+    "timestamp": "2026-05-14T00:04:57",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.376,
+    "max_mm": 0.019,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.759
+  },
+  {
+    "timestamp": "2026-05-14T00:05:02",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.314,
+    "max_mm": 0.015,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.964
+  },
+  {
+    "timestamp": "2026-05-14T00:05:07",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.198,
+    "max_mm": 0.01,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T00:05:17",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.034,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.715
+  },
+  {
+    "timestamp": "2026-05-14T00:05:26",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T00:05:33",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.038,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-14T00:05:42",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T00:05:45",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.198,
+    "max_mm": 0.01,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T00:05:49",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.376,
+    "max_mm": 0.019,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.759
+  },
+  {
+    "timestamp": "2026-05-14T00:05:58",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.314,
+    "max_mm": 0.015,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.964
+  },
+  {
+    "timestamp": "2026-05-14T00:06:06",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.038,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-14T00:10:41",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.034,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.715
+  },
+  {
+    "timestamp": "2026-05-14T09:40:05",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T09:40:10",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.038,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-14T09:40:13",
+    "city": "Kharkiv",
+    "city_ua": "Харків",
+    "total_mm": 0.198,
+    "max_mm": 0.01,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T09:40:19",
+    "city": "Uzhhorod",
+    "city_ua": "Ужгород",
+    "total_mm": 0.376,
+    "max_mm": 0.019,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.759
+  },
+  {
+    "timestamp": "2026-05-14T09:40:23",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.314,
+    "max_mm": 0.015,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.964
+  },
+  {
+    "timestamp": "2026-05-14T09:44:37",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T09:50:55",
+    "city": "Odesa",
+    "city_ua": "Одеса",
+    "total_mm": 0.034,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.715
+  },
+  {
+    "timestamp": "2026-05-14T10:05:14",
+    "city": "Chernihiv",
+    "city_ua": "Чернігів",
+    "total_mm": 0.314,
+    "max_mm": 0.015,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.964
+  },
+  {
+    "timestamp": "2026-05-14T10:28:23",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-14T18:15:22",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.478,
+    "max_mm": 0.022,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.644
+  },
+  {
+    "timestamp": "2026-05-14T18:15:32",
+    "city": "Dnipro",
+    "city_ua": "Дніпро",
+    "total_mm": 0.038,
+    "max_mm": 0.003,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.777
+  },
+  {
+    "timestamp": "2026-05-14T18:15:35",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-05-28T20:25:26",
+    "city": "Kyiv",
+    "city_ua": "Київ",
+    "total_mm": 0.277,
+    "max_mm": 0.013,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.942
+  },
+  {
+    "timestamp": "2026-06-04T10:00:14",
+    "city": "Lviv",
+    "city_ua": "Львів",
+    "total_mm": 0.478,
+    "max_mm": 0.022,
+    "rainy_hours": 0,
+    "clf_label": 1,
+    "clf_confidence": 0.644
+  }
+]

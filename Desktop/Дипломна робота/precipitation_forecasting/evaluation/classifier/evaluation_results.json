@@ -1,0 +1,77 @@
+{
+  "model_metrics": {
+    "accuracy": 0.7358347258089017,
+    "precision": 0.6725483542585681,
+    "recall": 0.7807376040179231,
+    "f1_score": 0.7226159279936197,
+    "specificity": 0.7004501008846811,
+    "npv": 0.8021328593645857,
+    "balanced_accuracy": 0.740593852451302,
+    "mcc": 0.47792338689763664,
+    "cohen_kappa": 0.47312118751454324,
+    "confusion_matrix": {
+      "TP": 15856,
+      "TN": 18052,
+      "FP": 7720,
+      "FN": 4453
+    },
+    "roc_auc": 0.8166369766373842,
+    "pr_auc": 0.7880300569472727
+  },
+  "baseline_metrics": {
+    "accuracy": 0.5592760573772271,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "specificity": 1.0,
+    "npv": 0.5592760573772271,
+    "balanced_accuracy": 0.5,
+    "mcc": 0.0,
+    "cohen_kappa": 0.0,
+    "confusion_matrix": {
+      "TP": 0,
+      "TN": 25772,
+      "FP": 0,
+      "FN": 20309
+    }
+  },
+  "optimal_thresholds": {
+    "max_f1": 0.5,
+    "max_balanced_acc": 0.54,
+    "precision_80": 0.8200000000000001,
+    "recall_80": 0.47000000000000003
+  },
+  "classification_report": {
+    "Немає опадів": {
+      "precision": 0.8021328593645857,
+      "recall": 0.7004501008846811,
+      "f1-score": 0.7478509435134744,
+      "support": 25772.0
+    },
+    "Опади": {
+      "precision": 0.6725483542585681,
+      "recall": 0.7807376040179231,
+      "f1-score": 0.7226159279936197,
+      "support": 20309.0
+    },
+    "accuracy": 0.7358347258089017,
+    "macro avg": {
+      "precision": 0.7373406068115769,
+      "recall": 0.740593852451302,
+      "f1-score": 0.735233435753547,
+      "support": 46081.0
+    },
+    "weighted avg": {
+      "precision": 0.7450218653714407,
+      "recall": 0.7358347258089017,
+      "f1-score": 0.7367292679814171,
+      "support": 46081.0
+    }
+  },
+  "data_statistics": {
+    "n_samples": 46081,
+    "n_positive": 20309,
+    "n_negative": 25772,
+    "positive_rate": 0.4407239426227729
+  }
+}

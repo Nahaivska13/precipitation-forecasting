@@ -1,0 +1,22 @@
+{
+  "test_loss": 0.4316606707124626,
+  "test_mse": 0.615776269192768,
+  "test_mae": 0.24754507004168547,
+  "best_val_loss": 0.46647909119508346,
+  "epochs_trained": 22,
+  "config": {
+    "seq_len": 72,
+    "pred_len": 24,
+    "batch_size": 128,
+    "d_model": 128,
+    "n_heads": 8,
+    "n_layers": 4,
+    "d_ff": 256,
+    "dropout": 0.2,
+    "epochs": 100,
+    "lr": 5e-05,
+    "patience": 15,
+    "weight_decay": 0.0001,
+    "warmup_epochs": 5
+  }
+}

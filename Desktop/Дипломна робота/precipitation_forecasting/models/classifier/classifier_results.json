@@ -1,0 +1,22 @@
+{
+  "test_accuracy": 0.7292178409825468,
+  "test_f1": 0.7166339714536968,
+  "test_precision": 0.668166337299752,
+  "test_recall": 0.7726830691432461,
+  "val_f1": 0.7057783978607138,
+  "best_iteration": 70,
+  "config": {
+    "seq_len": 72,
+    "pred_len": 24,
+    "rain_threshold": 0.1,
+    "n_estimators": 300,
+    "max_depth": 6,
+    "learning_rate": 0.05,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "min_child_weight": 5,
+    "gamma": 0.1,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1.0
+  }
+}
